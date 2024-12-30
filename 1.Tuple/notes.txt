@@ -1,0 +1,4 @@
+## Tuples
+- immutable
+- hence iteration is slightly faster in tuples than in list
+- can be used as keys for a dictionary
